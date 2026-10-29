@@ -142,7 +142,7 @@ transação (ou tudo é gravado, ou nada é), e a nota fiscal é gerada depois a
 
 ## Meu papel
 
-Criei o CentralizeSys sozinho e sou responsável por todo o ciclo do produto:
+Sou responsável por todo o ciclo do produto:
 
 - **Requisitos:** levantamento com os clientes (lojistas, prestadores de serviço e restaurantes),
   acompanhando a rotina real do balcão para desenhar os fluxos.
